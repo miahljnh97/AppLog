@@ -2,7 +2,11 @@
 
 namespace APPLOG
 {
-    public class Class1
+    public class Logging
     {
+        public void Log()
+        {
+            Console.WriteLine("Log Me");
+        }
     }
 }
