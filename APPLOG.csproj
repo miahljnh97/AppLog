@@ -1,11 +1,10 @@
 <Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
-    <PackageId>AppLogMe</PackageId>
+    <PackageId>AppLogMia</PackageId>
     <Version>1.0.0</Version>
     <Author>Mia</Author>
     <Company>Gigaming</Company>
-    
     <TargetFramework>netstandard2.0</TargetFramework>
   </PropertyGroup>
 
