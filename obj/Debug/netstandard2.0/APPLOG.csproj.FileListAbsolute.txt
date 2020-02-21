@@ -1,0 +1,8 @@
+/Users/user/Projects/APPLOG/bin/Debug/netstandard2.0/APPLOG.deps.json
+/Users/user/Projects/APPLOG/bin/Debug/netstandard2.0/APPLOG.dll
+/Users/user/Projects/APPLOG/bin/Debug/netstandard2.0/APPLOG.pdb
+/Users/user/Projects/APPLOG/obj/Debug/netstandard2.0/APPLOG.csprojAssemblyReference.cache
+/Users/user/Projects/APPLOG/obj/Debug/netstandard2.0/APPLOG.AssemblyInfoInputs.cache
+/Users/user/Projects/APPLOG/obj/Debug/netstandard2.0/APPLOG.AssemblyInfo.cs
+/Users/user/Projects/APPLOG/obj/Debug/netstandard2.0/APPLOG.dll
+/Users/user/Projects/APPLOG/obj/Debug/netstandard2.0/APPLOG.pdb

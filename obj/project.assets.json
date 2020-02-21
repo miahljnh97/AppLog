@@ -186,7 +186,7 @@
     "version": "1.0.0",
     "restore": {
       "projectUniqueName": "/Users/user/Projects/APPLOG/APPLOG.csproj",
-      "projectName": "APPLOG",
+      "projectName": "AppLogMe",
       "projectPath": "/Users/user/Projects/APPLOG/APPLOG.csproj",
       "packagesPath": "/Users/user/.nuget/packages/",
       "outputPath": "/Users/user/Projects/APPLOG/obj/",
